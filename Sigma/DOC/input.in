@@ -1,0 +1,5 @@
+&elphscat
+  VfisInput = './VfisVsE_050'
+  LSFinput  = './lsfVsEwithUpTo12phonons'
+  crossSectionOutput = './crossSectionNew12_050'
+/
